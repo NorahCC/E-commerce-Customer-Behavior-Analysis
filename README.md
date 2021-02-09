@@ -30,7 +30,7 @@ The data set used in this analysis contains one-year trade information (50000+ r
   * From the perspective of ZONE
     * the distribution of countries and their corresponding sales
 
-* Analysis of Customer Behaviors
+* Analysis of Customer Behavior
 
   * purchase circle
   * customer life circle
