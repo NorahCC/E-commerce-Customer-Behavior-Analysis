@@ -1,4 +1,4 @@
-# E-commerce-Customer-Behavior-Analysis
+# E-commerce Customer Behavior Analysis
 The data set used in this analysis contains one-year trade information for all online orders placed in an e-commerce online trade website. The owner of this website focus on gift sales and have many clients acting like wholesalers at the same time.
 ## Filespec:
 `Case Analysis：e-commerce customer data.pdf` - for code preview. This file is the pdf version of the Python Jupyter Notebook. \
