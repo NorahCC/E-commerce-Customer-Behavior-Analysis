@@ -1,9 +1,11 @@
 # E-commerce Customer Behavior Analysis
 The data set used in this analysis contains one-year trade information for all online orders placed in an e-commerce online trade website. The owner of this website focus on gift sales and have many clients acting like wholesalers at the same time.
+
+![](https://github.com/NorahCC/E-commerce_Customer_Behavior_Analysis/blob/master/img/img_5.png)
 ## Filespec:
 `Case Analysis：e-commerce customer data.pdf` - for code preview. This file is the pdf version of the Python Jupyter Notebook. \
 `Case Analysis：e-commerce customer data.ipynb` - this file contains the step-by-step process of this analysis and the corresponding result/visualization for each step.\
-`Analysis Summary.pdf` - it is a short summary for analysis ideas, perspectives, and conclusions.
+`Summary - Online Retail Analysis.pdf` - it is a short summary for analysis ideas, perspectives, and conclusions.
 ## Customer behavior analysis - outline:
 * Descriptive Statistics of the Sales Condition
 
@@ -33,3 +35,9 @@ The data set used in this analysis contains one-year trade information for all o
   * purchase circle
   * customer life circle
   * customer retention
+## Some of the intermediate process results:
+![](https://github.com/NorahCC/E-commerce_Customer_Behavior_Analysis/blob/master/img/img_6.png)
+
+![](https://github.com/NorahCC/E-commerce_Customer_Behavior_Analysis/blob/master/img/img_1.png)
+
+![](https://github.com/NorahCC/E-commerce_Customer_Behavior_Analysis/blob/master/img/img_2.png)
