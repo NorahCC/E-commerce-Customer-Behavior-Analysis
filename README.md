@@ -1,5 +1,5 @@
 # E-commerce Customer Behavior Analysis
-The data set used in this analysis contains one-year trade information for all online orders placed in an e-commerce online trade website. The owner of this website focus on gift sales and have many clients acting like wholesalers at the same time.
+The data set used in this analysis contains one-year trade information (50000+ records) for all online orders placed in an e-commerce online trade website. The owner of this website focus on gift sales and have many clients acting like wholesalers at the same time.
 
 ![](https://github.com/NorahCC/E-commerce_Customer_Behavior_Analysis/blob/master/img/img_5.png)
 ## Filespec:
