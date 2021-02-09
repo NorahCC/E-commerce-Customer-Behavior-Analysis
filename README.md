@@ -3,7 +3,7 @@ The data set used in this analysis contains one-year trade information for all o
 
 ![](https://github.com/NorahCC/E-commerce_Customer_Behavior_Analysis/blob/master/img/img_5.png)
 ## Filespec:
-`Case Analysis：e-commerce customer data.pdf` - for code preview. This file is the pdf version of the Python Jupyter Notebook. \
+`Case Analysis：e-commerce customer data.pdf` - for code preview. This file is pdf version of the Python Jupyter Notebook. \
 `Case Analysis：e-commerce customer data.ipynb` - this file contains the step-by-step process of this analysis and the corresponding result/visualization for each step.\
 `Summary - Online Retail Analysis.pdf` - it is a short summary for analysis ideas, perspectives, and conclusions.
 ## Customer behavior analysis - outline:
